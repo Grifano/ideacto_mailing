@@ -93,7 +93,6 @@ html.w-mod-touch * {
   line-height: inherit;
   text-decoration: none;
   cursor: pointer;
-  border-radius: 0;
 }
 input.w-button {
   -webkit-appearance: button;
@@ -126,7 +125,6 @@ html[data-w-dynpage] [data-w-cloak] {
   float: none;
   clear: none;
   border: 0 none transparent;
-  border-radius: 0;
   background: none;
   background-image: none;
   background-position: 0% 0%;
